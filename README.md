@@ -1,4 +1,4 @@
-# Task-test1-for-MST
+# Task-tests-for-MST
 Test 
 Часть 1:
 Выполнил работу в соответствии с ТЗ:
