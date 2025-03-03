@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #333232;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+.container {
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1.3;
+    width:50%;
+    background-color: #000;
+}
+.video-block {
+    display: inline-block;
+    width: 120px;
+    height: 40px;
+    vertical-align: middle;
+    overflow: hidden;
+}
+.video-block video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
